@@ -1,0 +1,282 @@
+Test name: CCGrid_40_3
+Start time: 2013-09-24 13:52:19.0
+Init exec time: 2013-09-24 14:10:48.0
+End time: 2013-09-24 14:59:00.0
+Performance: 6.916e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64201        0          47         0.0 
+ paas64204        0          47         0.0 
+ paas64202        0          48         0.0 
+ paas64205        0          47         0.0 
+ paas64210        0          48         0.0 
+ paas64214        0          48         0.0 
+ paas64208        0          48         0.0 
+ paas64215        0          48         0.0 
+ paas64207        0          48         0.0 
+ paas64212        0          47         0.0 
+ paas64216        0          48         0.0 
+ paas64211        0          48         0.0 
+ paas64213        0          48         0.0 
+ paas64209        0          48         0.0 
+ paas64206        0          47         0.0 
+ paas64228        0          48         0.0 
+ paas64222        0          48         0.0 
+ paas64217        0          48         0.0 
+ paas64230        0          47         0.0 
+ paas64227        0          47         0.0 
+ paas64223        0          47         0.0 
+ paas64309        0          48         0.0 
+ paas64220        0          48         0.0 
+ paas64308        0          48         0.0 
+ paas64303        0          48         0.0 
+ paas64218        0          48         0.0 
+ paas64221        0          48         0.0 
+ paas64323        0          48         0.0 
+ paas64318        0          48         0.0 
+ paas64330        0          48         0.0 
+ paas64326        0          48         0.0 
+ paas64316        0          48         0.0 
+ paas64314        4          44  8.33333333 
+ paas64322        0          48         0.0 
+ paas64329        0          47         0.0 
+ paas64315        0          47         0.0 
+ paas64317        0          48         0.0 
+ paas64325        0          48         0.0 
+ paas64327        0          48         0.0 
+ paas64310        0          48         0.0 
+
+Test name: CCGrid_40_2
+Start time: 2013-09-24 12:38:07.0
+Init exec time: 2013-09-24 12:56:43.0
+End time: 2013-09-24 13:50:00.0
+Performance: 6.237e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64201       16          37  30.1886792 
+ paas64205        0          53         0.0 
+ paas64208        0          53         0.0 
+ paas64206        0          53         0.0 
+ paas64204        0          53         0.0 
+ paas64202       12          41  22.6415094 
+ paas64207        0          53         0.0 
+ paas64220        0          52         0.0 
+ paas64212        0          53         0.0 
+ paas64218        0          52         0.0 
+ paas64213        0          53         0.0 
+ paas64217        0          53         0.0 
+ paas64211        0          53         0.0 
+ paas64215        0          53         0.0 
+ paas64209        0          52         0.0 
+ paas64210        0          52         0.0 
+ paas64221        0          53         0.0 
+ paas64216        0          53         0.0 
+ paas64214        0          53         0.0 
+ paas64308        0          53         0.0 
+ paas64227        0          53         0.0 
+ paas64315        0          53         0.0 
+ paas64223        0          53         0.0 
+ paas64230        0          52         0.0 
+ paas64316        0          53         0.0 
+ paas64310        0          53         0.0 
+ paas64303        0          53         0.0 
+ paas64222        0          53         0.0 
+ paas64314        0          53         0.0 
+ paas64309        0          53         0.0 
+ paas64228        0          53         0.0 
+ paas64329        0          53         0.0 
+ paas64322        0          53         0.0 
+ paas64326        0          53         0.0 
+ paas64327        0          53         0.0 
+ paas64330        0          53         0.0 
+ paas64317        0          52         0.0 
+ paas64325        0          52         0.0 
+ paas64323        0          52         0.0 
+ paas64318        0          53         0.0 
+
+Test name: CCGrid_40_1
+Start time: 2013-09-24 05:53:51.0
+Init exec time: 2013-09-24 06:12:22.0
+End time: 2013-09-24 07:05:00.0
+Performance: 6.265e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64202        0          52         0.0 
+ paas64201        0          52         0.0 
+ paas64204        0          52         0.0 
+ paas64212        0          52         0.0 
+ paas64209        0          52         0.0 
+ paas64213        0          52         0.0 
+ paas64210        0          52         0.0 
+ paas64214       52           0       100.0 
+ paas64206        0           0         0.0 
+ paas64211        0          52         0.0 
+ paas64205        0          52         0.0 
+ paas64207        0          52         0.0 
+ paas64208        0          52         0.0 
+ paas64215        0          52         0.0 
+ paas64220        0          52         0.0 
+ paas64230        0          52         0.0 
+ paas64222        0          52         0.0 
+ paas64221        0          52         0.0 
+ paas64228        0          52         0.0 
+ paas64308        0           0         0.0 
+ paas64217        0          52         0.0 
+ paas64216        0          52         0.0 
+ paas64303        0          52         0.0 
+ paas64227        0          52         0.0 
+ paas64223        0          52         0.0 
+ paas64218        0          52         0.0 
+ paas64315        0           0         0.0 
+ paas64325        0           0         0.0 
+ paas64327        0           0         0.0 
+ paas64314        0           0         0.0 
+ paas64310        0           0         0.0 
+ paas64323        0           0         0.0 
+ paas64316        0           0         0.0 
+ paas64317        0           0         0.0 
+ paas64326        0          52         0.0 
+ paas64318        0           0         0.0 
+ paas64322        0           0         0.0 
+ paas64309        0           0         0.0 
+ paas64330        0           0         0.0 
+ paas64329        0           0         0.0 
+
+Test name: CCGrid_20_3
+Start time: 2013-09-23 21:05:32.0
+Init exec time: 2013-09-23 21:12:31.0
+End time: 2013-09-23 21:38:00.0
+Performance: 4.669e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64201        0          25         0.0 
+ paas64202        0          25         0.0 
+ paas64204        0          25         0.0 
+ paas64205        0          25         0.0 
+ paas64206        0           0         0.0 
+ paas64207        0          25         0.0 
+ paas64208        0          25         0.0 
+ paas64209        0          25         0.0 
+ paas64210        0          26         0.0 
+ paas64211        0          25         0.0 
+ paas64212        0          26         0.0 
+ paas64213        0          25         0.0 
+ paas64214       25           0       100.0 
+ paas64215        0          25         0.0 
+ paas64216        0          25         0.0 
+ paas64217        0          25         0.0 
+ paas64218        0          25         0.0 
+ paas64220        0          26         0.0 
+ paas64221        0          26         0.0 
+ paas64222        0          25         0.0 
+
+Test name: CCGrid_20_2
+Start time: 2013-09-23 20:26:58.0
+Init exec time: 2013-09-23 20:33:53.0
+End time: 2013-09-23 20:57:00.0
+Performance: 4.993e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64201        0          23         0.0 
+ paas64202        0          23         0.0 
+ paas64205        0          23         0.0 
+ paas64204        0          23         0.0 
+ paas64206        0           0         0.0 
+ paas64207        0          23         0.0 
+ paas64213        0          23         0.0 
+ paas64211        0          22         0.0 
+ paas64209        0          23         0.0 
+ paas64210        0          23         0.0 
+ paas64214       23           0       100.0 
+ paas64208        0          23         0.0 
+ paas64215        0          23         0.0 
+ paas64212        0          23         0.0 
+ paas64216        0          23         0.0 
+ paas64221        0          23         0.0 
+ paas64218        0          23         0.0 
+ paas64220        0          23         0.0 
+ paas64222        0          23         0.0 
+ paas64217        0          23         0.0 
+
+Test name: CCGrid_20_1
+Start time: 2013-09-23 19:51:24.0
+Init exec time: 2013-09-23 19:58:24.0
+End time: 2013-09-23 20:23:00.0
+Performance: 4.773e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64201        0          24         0.0 
+ paas64202        0          24         0.0 
+ paas64208        0          24         0.0 
+ paas64204        0          24         0.0 
+ paas64210        0          24         0.0 
+ paas64205        0          24         0.0 
+ paas64207        0          24         0.0 
+ paas64209        0          24         0.0 
+ paas64206        0           0         0.0 
+ paas64214       25           0       100.0 
+ paas64213        0          24         0.0 
+ paas64217        0          25         0.0 
+ paas64212        0          25         0.0 
+ paas64215        0          24         0.0 
+ paas64211        0          24         0.0 
+ paas64216        0          24         0.0 
+ paas64218        0          24         0.0 
+ paas64221        0          24         0.0 
+ paas64220        0          24         0.0 
+ paas64222        0          24         0.0 
+
+Test name: CCGrid_10_3
+Start time: 2013-09-23 19:14:02.0
+Init exec time: 2013-09-23 19:20:01.0
+End time: 2013-09-23 19:38:00.0
+Performance: 2.405e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64202        0          18         0.0 
+ paas64206        0           0         0.0 
+ paas64204        0          18         0.0 
+ paas64205        0          18         0.0 
+ paas64207        0          18         0.0 
+ paas64211        0          18         0.0 
+ paas64212        0          18         0.0 
+ paas64209        0          18         0.0 
+ paas64208        0          18         0.0 
+ paas64210        0          18         0.0 
+
+Test name: CCGrid_10_2
+Start time: 2013-09-23 18:30:12.0
+Init exec time: 2013-09-23 18:36:13.0
+End time: 2013-09-23 18:56:00.0
+Performance: 2.148e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64202        0          19         0.0 
+ paas64204        0          19         0.0 
+ paas64205        0          19         0.0 
+ paas64207        0          19         0.0 
+ paas64210        0          19         0.0 
+ paas64206        0           0         0.0 
+ paas64209        0          19         0.0 
+ paas64208        0          19         0.0 
+ paas64211        0          19         0.0 
+ paas64212        0          20         0.0 
+
+Test name: CCGrid_10_1
+Start time: 2013-09-23 16:47:32.0
+Init exec time: 2013-09-23 16:53:36.0
+End time: 2013-09-23 17:12:00.0
+Performance: 2.250e+01 Gflops
+Nodes: 
+  hostname  ocupado  No ocupado        %Ocu 
+ paas64202        0          18         0.0 
+ paas64204        0          18         0.0 
+ paas64205        0          19         0.0 
+ paas64206        0           0         0.0 
+ paas64207        0          19         0.0 
+ paas64208        0          19         0.0 
+ paas64209        0          19         0.0 
+ paas64210        0          18         0.0 
+ paas64211        0          18         0.0 
+ paas64212        0          18         0.0 
+

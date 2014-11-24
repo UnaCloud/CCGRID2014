@@ -1,0 +1,13 @@
+executeCommandOutput [C:\Program Files\Oracle\VirtualBox\VBoxHeadless.exe, -startvm, DebianPaaS64VB]
+Oracle VM VirtualBox Headless Interface 4.2.14
+(C) 2008-2013 Oracle Corporation
+All rights reserved.
+
+VBoxHeadless.exe: error: The machine 'DebianPaaS64VB' is already locked for a session (or being unlocked)
+VBoxHeadless.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component Machine, interface IMachine, callee IUnknown
+VBoxHeadless.exe: error: Context: "LockMachine(session, LockType_VM)" at line 953 of file VBoxHeadless.cpp
+
+executeCommandOutput [C:\Program Files\Oracle\VirtualBox\VBoxManage.exe, controlvm, DebianPaaS64VB, poweroff]
+VBoxManage.exe: error: Invalid machine state: PoweredOff (must be Running, Paused or Stuck)
+VBoxManage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component Console, interface IConsole, callee IUnknown
+VBoxManage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 224 of file VBoxManageControlVM.cpp
